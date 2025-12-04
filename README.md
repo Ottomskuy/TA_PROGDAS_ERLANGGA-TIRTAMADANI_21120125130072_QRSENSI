@@ -53,4 +53,4 @@ Pengembang
 ----------
 Erlangga Tirtamadani — 21120125130072
 Universitas Diponegoro
-Mata Kuliah: Pemrograman Dasar
+Mata Kuliah: Praktikum Pemrograman Dasar
