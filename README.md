@@ -24,3 +24,33 @@ Tugas Akhir/\
 └─ README.md                
 ```
 
+Fitur Utama
+-----------
+1. Registrasi Pengguna
+2. Generate QR Code
+3. Scan QR Code
+4. GUI Interaktif
+
+Cara Menjalankan Aplikasi
+-------------------------
+1. Clone Repository
+2. Instal Dependencies  
+```bash
+pip install opencv-python qrcode pillow              
+```
+3. Jalanan Program
+
+Alur Penggunaan
+---------------
+1. User mendaftar (username, password, NIM, nama)
+2. Login ke aplikasi
+3. Pilih:
+- Generate QR → simpan QR identitas
+- Absensi → arahkan QR ke kamera
+4. Sistem akan membaca QR dan mencatat kehadiran ke file CSV
+
+Pengembang 
+----------
+Erlangga Tirtamadani — 21120125130072
+Universitas Diponegoro
+Mata Kuliah: Pemrograman Dasar
